@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+# pipeline and simulation outputs
+runs/
+inputs/
+oncoKB/
+gencode/
+encode/
+simulation/bench_layer1/
+simulation/*.png
+simulation/*.tsv
+simulation/*.out
+simulation/*.err
+reference_download_date.txt
